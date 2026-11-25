@@ -12,14 +12,14 @@ NAO faz push.  Ele prepara tudo, faz o commit local e IMPRIME os comandos de
 push para voce rodar depois de revisar.  O repositorio e PUBLICO; vale olhar a
 lista de arquivos antes de publicar.
 
-Repositorio: https://github.com/BioinformaticaUDESC/Solven-Acessiblre-A71-Capsid
+Repositorio: https://github.com/BioinformaticaUDESC/Solvent-Accessible-A71-Capsid
 """
 
 import os, sys, glob, shutil, hashlib, subprocess, datetime
 
 BASE   = "/home/juan"
 DESTINO = f"{BASE}/repo_a71"
-REMOTO = "https://github.com/BioinformaticaUDESC/Solven-Acessiblre-A71-Capsid.git"
+REMOTO = "https://github.com/BioinformaticaUDESC/Solvent-Accessible-A71-Capsid.git"
 RAIZES = [f"{BASE}/V49_pegadas", f"{BASE}/abertos", f"{BASE}/paper_artifacts",
           f"{BASE}/figuras_V28", f"{BASE}/V58_figuras", f"{BASE}/V65_submissao",
           BASE]
@@ -198,7 +198,7 @@ authors:
     given-names: Juan Philippe
     orcid: "https://orcid.org/0000-0001-7323-2919"
 date-released: "{hoje}"
-repository-code: "https://github.com/BioinformaticaUDESC/Solven-Acessiblre-A71-Capsid"
+repository-code: "https://github.com/BioinformaticaUDESC/Solvent-Accessible-A71-Capsid"
 license: MIT
 """)
 
