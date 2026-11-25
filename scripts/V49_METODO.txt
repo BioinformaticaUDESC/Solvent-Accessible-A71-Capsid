@@ -1,0 +1,14 @@
+V49 - filtro de registro
+gerado em 2026-11-24T12:20:13
+
+regra            bloqueio <= 106   (um eixo)
+piso             percentil 95% do bloqueio nos residuos de pegada da
+                 metade de calibracao, estimador np.quantile
+divisao          semente 20261116, ordem do validacao_filtro.tsv, metade a metade
+calibracao       7BZT 3DPR 7VYK 3J8F 6EIT 7C9W 6ADM 6ADL 6ADR 6ILK 7BZU 6ILJ 7W14
+teste            7VY5 6PSF 8B8R 7XXA 1V9U 7VY6 7VYM 7VXZ 6PPO 6SNW 7VYL 6I2K 6CX1
+excluidos        23BG 23PS - deposito sem os operadores de simetria
+eixo radial      shell_pct permanece como coluna descritiva, fora do filtro
+
+desempenho       calibracao   sens 94.7%  espec 64.6%
+                 teste retido sens 96.5%  espec 65.3%

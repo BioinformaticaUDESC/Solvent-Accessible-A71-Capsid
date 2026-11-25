@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, cite this repository and its authors."
+title: "Solvent-accessible yet externally occluded: data and analysis code"
+type: software
+authors:
+  - family-names: Teixeira
+    given-names: Juan Philippe
+    orcid: "https://orcid.org/0000-0001-7323-2919"
+repository-code: "https://github.com/BioinformaticaUDESC/Solven-Acessiblre-A71-Capsid"
+license:
+  - MIT
+  - CC-BY-4.0

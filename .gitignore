@@ -1,0 +1,18 @@
+# Coordinates, archives and unrelated project outputs
+*.[cC][iI][fF]
+*.[mM][mM][cC][iI][fF]
+*.[pP][dD][bB]
+*.[eE][nN][tT]
+*.[gG][zZ]
+*.zip
+*.tar
+*.7z
+*9L2L*
+*7TF8*
+*9UE7*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
