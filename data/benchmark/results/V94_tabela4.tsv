@@ -1,0 +1,8 @@
+descritor	auc	ic_lo	ic_hi	dif_pareada	dif_lo	dif_hi	cone_vence	de
+Outward-cone occupancy (45 deg, 30 A)	0.8584	0.8311	0.8905					
+Accessible area, 1.4 A probe	0.8035	0.7803	0.8324	0.0523	0.0315	0.0744	18	22
+Accessible area, 5.0 A probe	0.7734	0.7411	0.8115	0.0834	0.0617	0.1036	20	22
+Accessible area, 10.0 A probe	0.6902	0.6507	0.7358	0.1619	0.1325	0.1928	22	22
+Residue depth	0.8037	0.7862	0.8234	0.0630	0.0362	0.0925	19	22
+Radial percentile	0.7695	0.7205	0.8250	0.0738	0.0442	0.1021	17	22
+Half-sphere exposure	0.7566	0.7271	0.7951	0.0981	0.0708	0.1268	21	22
